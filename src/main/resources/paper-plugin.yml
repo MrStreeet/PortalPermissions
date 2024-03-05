@@ -1,0 +1,5 @@
+name: PortalPermissions
+version: '${version}'
+main: mrstreeet.portalpermissions.PortalPermissions
+api-version: '1.20'
+load: STARTUP
